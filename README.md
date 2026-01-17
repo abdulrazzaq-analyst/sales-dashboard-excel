@@ -38,8 +38,6 @@ Filter the data dynamically for deep insights:
 ### Excel Tools Used
 - **Pivot Tables & Charts** for dynamic reporting  
 - **Slicers & Timelines** for interactive filtering  
-- **Advanced Formulas:** `SUMIFS`, `INDEX-MATCH`, `GETPIVOTDATA`  
-- **Conditional Formatting** for visual highlights  
 - Dashboard design using **shapes, icons, and formatting**  
 
 ### Data Processing
