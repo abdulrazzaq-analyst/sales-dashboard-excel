@@ -1,6 +1,7 @@
 # 📊 Sales Profit Dashboard - Excel
 
-![Dashboard Preview](Screenshots/dashboard-preview.png)
+<img width="1892" height="892" alt="Dashboard_image" src="https://github.com/user-attachments/assets/4a0b6f43-01ab-4384-b740-773fbb6f8b8a" />
+
 
 **A professional and interactive Sales Profit Dashboard in Microsoft Excel** to analyze **sales performance (2011-2016)** across geography, product categories, demographics, and time.
 
