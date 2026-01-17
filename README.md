@@ -70,7 +70,7 @@ Filter the data dynamically for deep insights:
 ---
 
 ## 📌 Summary
-This **Sales Profit Dashboard** is a fully interactive Excel tool to monitor and analyze sales performance across countries, products, time, and customer demographics. It allows users to make **data-driven decisions** with real-time insights and visual analytics.
+This **Sales Profit Dashboard** project demonstrates my proficiency in **data analysis and visualization using MS Excel**. It showcases my ability to **clean, preprocess, analyze, and visualize data**, providing valuable insights into business performance across countries, product categories, time periods, and customer demographics.
 
 ---
 
