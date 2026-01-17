@@ -69,4 +69,11 @@ Filter the data dynamically for deep insights:
 
 ---
 
-## 🛠️ File Structure
+## 📌 Summary
+This **Sales Profit Dashboard** is a fully interactive Excel tool to monitor and analyze sales performance across countries, products, time, and customer demographics. It allows users to make **data-driven decisions** with real-time insights and visual analytics.
+
+---
+
+## 📞 Contact
+For questions or feedback, reach me at **abdulrazzaq.analytics@gmail.com** or check out more projects on **[GitHub](https://github.com/abdulrazzaq-analyst)**.
+
