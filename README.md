@@ -61,8 +61,8 @@ Filter the data dynamically for deep insights:
 
 ### 🌟 Top Performers
 - **Country:** United States ($11.07M profit)  
-- **Product Category:** See dashboard for details  
-- **Best Month:** See dashboard for details  
+- **Product Category:** Bikes ($20.52M Profit)
+- **Best Month:** June ($2.29M Profit) 
 
 ### 📈 Trend Analysis
 - Monthly & seasonal profit patterns  
