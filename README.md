@@ -83,3 +83,10 @@ To explore **more of my data analytics projects and dashboards**, visit my portf
 ## 📞 Contact
 For questions or feedback, reach me at **abdulrazzaq.analytics@gmail.com** or check out more projects on **[GitHub](https://github.com/abdulrazzaq-analyst)**.
 
+---
+
+## 👤 Author
+**Abdul Razzaq**  
+Statistics Graduate | Data Analytics & Visualization  
+🔗 GitHub: https://github.com/abdulrazzaq-analyst
+
